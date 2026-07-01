@@ -1,0 +1,21 @@
+# Local-only working notes (kept on disk, not tracked)
+CLAUDE.md
+ROADMAP.md
+
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
