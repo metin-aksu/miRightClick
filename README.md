@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="rightclick.png" alt="miRightClick" width="280">
+</p>
+
 # miRightClick
 
 **[🇹🇷 Türkçe için tıklayınız](#türkçe)**
@@ -54,7 +58,7 @@ every such app, not just miRightClick). The item appears in every other folder.
 **Metin AKSU**
 <https://github.com/metin-aksu/miRightClick>
 
----
+<img src="icon.png" alt="" height="250">
 
 ## Türkçe
 
@@ -112,3 +116,5 @@ görünür.
 
 **Metin AKSU**
 <https://github.com/metin-aksu/miRightClick>
+
+<img src="icon.png" alt="" height="250">
