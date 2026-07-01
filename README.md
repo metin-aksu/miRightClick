@@ -31,6 +31,8 @@ macOS never shipped.
 ```bash
 brew install --cask metin-aksu/tap/mirightclick
 ```
+> If you get an "untrusted tap" error, run `brew trust metin-aksu/tap` once and
+> repeat the command.
 
 ### Manual (DMG)
 
@@ -96,6 +98,9 @@ seçtiğinizde, tam o klasörde bir `untitled.txt` oluşturulur.
 ```bash
 brew install --cask metin-aksu/tap/mirightclick
 ```
+
+> "untrusted tap" hatası alırsan bir kez `brew trust metin-aksu/tap` çalıştırıp
+> komutu tekrarla.
 
 ### Manuel (DMG)
 
