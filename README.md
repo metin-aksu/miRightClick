@@ -26,6 +26,14 @@ macOS never shipped.
 
 ## Installation
 
+### Homebrew
+
+```bash
+brew install --cask metin-aksu/tap/mirightclick
+```
+
+### Manual (DMG)
+
 1. Download the latest **`miRightClick.dmg`** from the
    [Releases](https://github.com/metin-aksu/miRightClick/releases) page.
 2. Open the `.dmg` and drag **miRightClick** into your **Applications** folder.
@@ -82,6 +90,14 @@ seçtiğinizde, tam o klasörde bir `untitled.txt` oluşturulur.
 - Apple Silicon veya Intel Mac.
 
 ## Kurulum
+
+### Homebrew
+
+```bash
+brew install --cask metin-aksu/tap/mirightclick
+```
+
+### Manuel (DMG)
 
 1. [Releases](https://github.com/metin-aksu/miRightClick/releases) sayfasından
    en güncel **`miRightClick.dmg`** dosyasını indir.
