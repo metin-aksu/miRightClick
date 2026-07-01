@@ -60,18 +60,17 @@ every such app, not just miRightClick). The item appears in every other folder.
 
 **[🇬🇧 Click for English](#mirightclick)**
 
-Finder'ın sağ‑tık menüsüne bir **New Text File** (Yeni Metin Dosyası) seçeneği
-ekler. Bir klasörün içindeki boş alana sağ tıklayıp **New Text File**'ı
-seçtiğinde, tam o klasörde bir `untitled.txt` oluşturulur — macOS'un bir türlü
-eklemediği "yeni metin dosyası" işlemi.
+Finder'ın sağ‑tık menüsüne bir **Yeni Metin Dosyası** seçeneği
+ekler. Bir klasörün içindeki boş alana sağ tıklayıp **Yeni Metin Dosyası**'nı
+seçtiğinizde, tam o klasörde bir `untitled.txt` oluşturulur.
 
 ## Özellikler
 
-- Finder'ın sağ‑tık menüsüne **New Text File** ekler.
+- Finder'ın sağ‑tık menüsüne **Yeni Metin Dosyası** ekler.
 - Sağ tıkladığın klasörde `untitled.txt` oluşturur.
 - Güvenli adlandırma: `untitled.txt`, sonra `untitled 2.txt`,
   `untitled 3.txt`, … (mevcut dosyanın asla üzerine yazmaz).
-- **Her klasörde** çalışır (ev, Downloads, harici diskler, proje klasörleri…).
+- **Her klasörde** çalışır (Ev, Downloads, harici diskler, proje klasörleri…).
 
 ## Gereksinimler
 

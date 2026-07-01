@@ -38,7 +38,11 @@ class TextFileFinderSync: FIFinderSync {
         guard menuKind == .contextualMenuForContainer else { return nil }
 
         let menu = NSMenu(title: "")
-        let item = NSMenuItem(title: "New Text File",
+        // Localized so the item matches the user's macOS language (e.g. "Yeni
+        // Metin Dosyası" in Turkish). Translations live in Localizable.xcstrings.
+        let title = NSLocalizedString("New Text File",
+                                      comment: "Finder context-menu item that creates a new empty text file")
+        let item = NSMenuItem(title: title,
                               action: #selector(newTextFile(_:)),
                               keyEquivalent: "")
         // Do NOT set item.target. Finder shows this menu in its own process and
